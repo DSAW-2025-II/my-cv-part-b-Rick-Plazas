@@ -89,3 +89,6 @@ section {
 -------------------------------------------------------------------------------------------------------
 - Ricardo Plazas
 - Link desplegado: https://rick-plazas.github.io/cv-html-daw
+- Sushi:
+  <img width="1878" height="952" alt="image" src="https://github.com/user-attachments/assets/ec7aba79-0776-4ab5-9034-9f1a2524d519" />
+
